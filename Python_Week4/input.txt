@@ -1,0 +1,2 @@
+Hello there,
+I'm using this file for my assignment just to practice more on file and error handling.
